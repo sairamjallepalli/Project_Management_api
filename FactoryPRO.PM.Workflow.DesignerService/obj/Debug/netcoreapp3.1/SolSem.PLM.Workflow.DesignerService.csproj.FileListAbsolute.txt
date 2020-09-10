@@ -1,0 +1,9 @@
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\SolSem.PLM.Workflow.DesignerService.csprojAssemblyReference.cache
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\SolSem.PLM.Workflow.DesignerService.AssemblyInfoInputs.cache
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\SolSem.PLM.Workflow.DesignerService.AssemblyInfo.cs
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\SolSem.PLM.Workflow.DesignerService.RazorTargetAssemblyInfo.cache
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\staticwebassets\SolSem.PLM.Workflow.DesignerService.StaticWebAssets.Manifest.cache
+D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\staticwebassets\SolSem.PLM.Workflow.DesignerService.StaticWebAssets.xml

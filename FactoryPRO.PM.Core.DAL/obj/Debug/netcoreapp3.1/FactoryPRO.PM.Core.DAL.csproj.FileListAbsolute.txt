@@ -1,0 +1,45 @@
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.deps.json
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.runtimeconfig.json
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.runtimeconfig.dev.json
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.dll
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.pdb
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.Common.dll
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.Common.pdb
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csprojAssemblyReference.cache
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.AssemblyInfoInputs.cache
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.AssemblyInfo.cs
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csproj.CoreCompileInputs.cache
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csproj.CopyComplete
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.dll
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.pdb
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.genruntimeconfig.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.deps.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.runtimeconfig.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.runtimeconfig.dev.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.dll
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.pdb
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.Common.dll
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.Common.pdb
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csprojAssemblyReference.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.AssemblyInfoInputs.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.AssemblyInfo.cs
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csproj.CoreCompileInputs.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csproj.CopyComplete
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.dll
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.pdb
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.genruntimeconfig.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.deps.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.runtimeconfig.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.runtimeconfig.dev.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.dll
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.pdb
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.Common.dll
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Core.Common.pdb
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csprojAssemblyReference.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csproj.CoreCompileInputs.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.AssemblyInfoInputs.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.AssemblyInfo.cs
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.csproj.CopyComplete
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.dll
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.pdb
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Core.DAL\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Core.DAL.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolSem.PM.Workflow.Activities/1.0.0": {
+        "runtime": {
+          "SolSem.PM.Workflow.Activities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolSem.PM.Workflow.Activities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

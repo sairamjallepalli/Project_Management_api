@@ -1,0 +1,38 @@
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.exe
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.deps.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.runtimeconfig.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.runtimeconfig.dev.json
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.dll
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.pdb
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.AssemblyInfoInputs.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.AssemblyInfo.cs
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.csproj.CoreCompileInputs.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.MvcApplicationPartsAssemblyInfo.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.RazorTargetAssemblyInfo.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\staticwebassets\FactoryPRO.PM.Workflow.DesignerService.StaticWebAssets.Manifest.cache
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\staticwebassets\FactoryPRO.PM.Workflow.DesignerService.StaticWebAssets.xml
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.dll
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.pdb
+D:\Boda Sir Projects\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.genruntimeconfig.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.exe
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.deps.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.runtimeconfig.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.runtimeconfig.dev.json
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.dll
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\bin\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.pdb
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.csproj.CoreCompileInputs.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.MvcApplicationPartsAssemblyInfo.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.AssemblyInfoInputs.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.AssemblyInfo.cs
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.RazorTargetAssemblyInfo.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\staticwebassets\FactoryPRO.PM.Workflow.DesignerService.StaticWebAssets.Manifest.cache
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\staticwebassets\FactoryPRO.PM.Workflow.DesignerService.StaticWebAssets.xml
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.dll
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.pdb
+G:\Work\ProjectManagement\FactoryPRO.PM\FactoryPRO.PM.Workflow.DesignerService\obj\Debug\netcoreapp3.1\FactoryPRO.PM.Workflow.DesignerService.genruntimeconfig.cache

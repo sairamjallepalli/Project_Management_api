@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jnh4v3Qk/g4tmywY/KOBRutyQ/VNHcelN43irEvIJiIl6yLcU32sXR3pwl/nsp4ZcitW+3apq4F2+ZcrGUfSeQ==",
+  "success": true,
+  "projectFilePath": "G:\\Work\\ProjectManagement\\FactoryPRO.PM\\FactoryPRO.PM.Core.Common\\FactoryPRO.PM.Core.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sujith\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\sujith\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\sujith\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sujith\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\sujith\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\sujith\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\sujith\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

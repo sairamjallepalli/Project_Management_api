@@ -1,0 +1,8 @@
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\bin\Debug\netcoreapp3.1\SolSem.PM.Core.Common.deps.json
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\bin\Debug\netcoreapp3.1\SolSem.PM.Core.Common.dll
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\bin\Debug\netcoreapp3.1\SolSem.PM.Core.Common.pdb
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\obj\Debug\netcoreapp3.1\SolSem.PM.Core.Common.AssemblyInfoInputs.cache
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\obj\Debug\netcoreapp3.1\SolSem.PM.Core.Common.AssemblyInfo.cs
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\obj\Debug\netcoreapp3.1\SolSem.PM.Core.Common.csproj.CoreCompileInputs.cache
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\obj\Debug\netcoreapp3.1\SolSem.PM.Core.Common.dll
+D:\Boda Sir Projects\SolSem.PM\SolSem.PM.Core.Common\obj\Debug\netcoreapp3.1\SolSem.PM.Core.Common.pdb

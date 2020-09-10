@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLdwlaYuQMv5yGYwH5I1G8c0t9cHiqVQFPJe035T928RRNf8owbcVrCvhssjy/FKUNgjQDI+rqL5P7xyR7cohw==",
+  "success": true,
+  "projectFilePath": "G:\\Work\\ProjectManagement\\FactoryPRO.PM\\FactoryPRO.PM\\FactoryPRO.PM.Workflow.Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sujith\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

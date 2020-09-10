@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FactoryPRO.PM.Core.API</name>
+    </assembly>
+    <members>
+        <member name="T:FactoryPRO.PM.Core.API.Controllers.DashBoardController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.DashBoardController.#ctor(FactoryPRO.PM.Core.API.Services.ITilesService)">
+            <summary>
+            
+            </summary>
+            <param name="tilesService"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.DashBoardController.GetTilesCount(System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="UserID"></param>
+            <param name="ModuleID"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Controllers.ListController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ListController.#ctor(FactoryPRO.PM.Core.API.Services.IListService)">
+            <summary>
+            
+            </summary>
+            <param name="listtService"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ListController.GetList(System.String)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ListController.GetListByID(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ListID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ListController.CreateList(FactoryPRO.PM.Core.API.DTO.ListDTO)">
+            <summary>
+            
+            </summary>
+            <param name="lists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ListController.UpdateList(FactoryPRO.PM.Core.API.DTO.ListDTO)">
+            <summary>
+            
+            </summary>
+            <param name="lists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ListController.DeleteList(FactoryPRO.PM.Core.API.DTO.ListDTO)">
+            <summary>
+            
+            </summary>
+            <param name="lists"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Controllers.ProjectsController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ProjectsController.#ctor(FactoryPRO.PM.Core.API.Services.IProjectService)">
+            <summary>
+            
+            </summary>
+            <param name="projectService"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ProjectsController.GetProjects(System.String)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ProjectsController.GetProjectByID(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ProjectID"></param>
+            <param name="ModuleID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ProjectsController.GetProjectsByUserID(System.Int64,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="UserID"></param>
+            <param name="ModuleID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ProjectsController.CreateProject(FactoryPRO.PM.Core.API.DTO.FullProjectDTO)">
+            <summary>
+            
+            </summary>
+            <param name="project"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ProjectsController.UpdateProject(FactoryPRO.PM.Core.API.DTO.FullProjectDTO)">
+            <summary>
+            
+            </summary>
+            <param name="project"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.ProjectsController.DeleteProject(FactoryPRO.PM.Core.API.DTO.ProjectDTO)">
+            <summary>
+            
+            </summary>
+            <param name="project"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Controllers.SpaceController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.SpaceController.#ctor(FactoryPRO.PM.Core.API.Services.ISpaceService)">
+            <summary>
+            
+            </summary>
+            <param name="spaceService"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.SpaceController.GetSpaces">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.SpaceController.GetSpaceByID(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="SpaceID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.SpaceController.CreateSpace(FactoryPRO.PM.Core.API.DTO.SpaceDTO)">
+            <summary>
+            
+            </summary>
+            <param name="space"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.SpaceController.UpdateSpace(FactoryPRO.PM.Core.API.DTO.SpaceDTO)">
+            <summary>
+            
+            </summary>
+            <param name="space"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.SpaceController.DeleteSpace(FactoryPRO.PM.Core.API.DTO.SpaceDTO)">
+            <summary>
+            
+            </summary>
+            <param name="space"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Controllers.TasksController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.TasksController.#ctor(FactoryPRO.PM.Core.API.Services.ITaskService)">
+            <summary>
+            
+            </summary>
+            <param name="taskService"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.TasksController.GetTasksByUserID(System.Int32)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.TasksController.GetTasksByList(System.String)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.TasksController.GetTasksByProject(System.String)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.TasksController.CreateTask(FactoryPRO.PM.Core.API.DTO.TaskDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.TasksController.UpdateTask(FactoryPRO.PM.Core.API.DTO.TaskDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Controllers.TasksController.DeleteTask(FactoryPRO.PM.Core.API.DTO.TaskDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Task"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.DTO.ProjectDTO">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.DTO.ProjectDTO.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Helpers.AutoMapperConfig">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Helpers.AutoMapperConfig.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Services.IListService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Services.IProjectService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Services.ListService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ListService.#ctor(FactoryPRO.PM.Core.DAL.Repository.IListRepository,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="listRepository"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ListService.CreateList(FactoryPRO.PM.Core.API.DTO.ListDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Lists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ListService.DeleteList(FactoryPRO.PM.Core.API.DTO.ListDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Lists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ListService.GetListByID(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="listID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ListService.GetList(System.String)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ListService.UpdateList(FactoryPRO.PM.Core.API.DTO.ListDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Lists"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Services.ProjectService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ProjectService.#ctor(FactoryPRO.PM.Core.DAL.Repository.IProjectRepository,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="projectRepository"></param>
+            <param name="mapper"></param>
+            <param name="response"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ProjectService.CreateProject(FactoryPRO.PM.Core.API.DTO.FullProjectDTO)">
+            <summary>
+            
+            </summary>
+            <param name="fullProject"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ProjectService.DeleteProject(FactoryPRO.PM.Core.API.DTO.ProjectDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Project"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ProjectService.GetProjectByID(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ProjectID"></param>
+            <param name="ModuleID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ProjectService.GetProjectsByUserID(System.Int64,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="UserID"></param>
+            <param name="ModuleID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ProjectService.GetProjects(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ModuleID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.ProjectService.UpdateProject(FactoryPRO.PM.Core.API.DTO.FullProjectDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Project"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Services.SpaceService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.SpaceService.#ctor(FactoryPRO.PM.Core.DAL.Repository.ISpaceRepository,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="spaceRepository"></param>
+            <param name="mapper"></param>
+            <param name="response"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.SpaceService.CreateSpace(FactoryPRO.PM.Core.API.DTO.SpaceDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Space"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.SpaceService.DeleteSpace(FactoryPRO.PM.Core.API.DTO.SpaceDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Space"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.SpaceService.GetSpaceByID(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="SpaceID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.SpaceService.GetSpaces">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.SpaceService.UpdateSpace(FactoryPRO.PM.Core.API.DTO.SpaceDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Space"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TaskService.#ctor(FactoryPRO.PM.Core.DAL.Repository.ITaskRepository,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="taskRepository"></param>
+            <param name="mapper"></param>
+            <param name="response"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TaskService.GetTasksByUserID(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="UserID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TaskService.GetTasksByList(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ListID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TaskService.GetTasksByProject(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ProjectID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TaskService.CreateTask(FactoryPRO.PM.Core.API.DTO.TaskDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TaskService.UpdateTask(FactoryPRO.PM.Core.API.DTO.TaskDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TaskService.DeleteTask(FactoryPRO.PM.Core.API.DTO.TaskDTO)">
+            <summary>
+            
+            </summary>
+            <param name="Task"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FactoryPRO.PM.Core.API.Services.TilesService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TilesService.#ctor(FactoryPRO.PM.Core.DAL.Repository.ITaskRepository,FactoryPRO.PM.Core.DAL.Repository.IProjectRepository,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="taskRepository"></param>
+            <param name="projectRepository"></param>
+            <param name="mapper"></param>
+            <param name="response"></param>
+        </member>
+        <member name="M:FactoryPRO.PM.Core.API.Services.TilesService.GetTilesCount(System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="UserID"></param>
+            <param name="ModuleID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SolSem.PLM.Core.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>
