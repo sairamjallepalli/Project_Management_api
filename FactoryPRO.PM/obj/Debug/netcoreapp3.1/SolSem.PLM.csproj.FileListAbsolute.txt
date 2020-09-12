@@ -1,9 +1,0 @@
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\obj\Debug\netcoreapp3.1\SolSem.PLM.csprojAssemblyReference.cache
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\obj\Debug\netcoreapp3.1\SolSem.PLM.AssemblyInfoInputs.cache
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\obj\Debug\netcoreapp3.1\SolSem.PLM.AssemblyInfo.cs
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\obj\Debug\netcoreapp3.1\SolSem.PLM.RazorTargetAssemblyInfo.cache
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\obj\Debug\netcoreapp3.1\staticwebassets\SolSem.PLM.StaticWebAssets.Manifest.cache
-D:\Boda Sir Projects\SolSem.PLM\SolSem.PLM\obj\Debug\netcoreapp3.1\staticwebassets\SolSem.PLM.StaticWebAssets.xml
