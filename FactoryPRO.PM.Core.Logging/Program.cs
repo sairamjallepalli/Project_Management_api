@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Serilog;
+using Serilog.Formatting.Compact;
 
 namespace SolSem.PLM.Core.Logging
 {
@@ -16,7 +17,9 @@ namespace SolSem.PLM.Core.Logging
         {
             Log.Logger = new LoggerConfiguration()
             .Enrich.FromLogContext()
-            .WriteTo.Console()
+            //.WriteTo.Console()
+            .WriteTo.Console(new RenderedCompactJsonFormatter())
+            //.WriteTo.File(new RenderedCompactJsonFormatter(), "/logs/log.ndjson")
             .CreateLogger();
 
             try
